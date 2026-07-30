@@ -13,7 +13,7 @@ It allows users to search, explore, and browse movies with a sleek UI and smooth
 
 🎭 Browse movies by genre (Action, Adventure, Thriller, etc.)
 
-🎨 Dark gradient theme with black–orange design
+🎨 Dark gradient theme with black–orange design.
 
 ⏳ Custom preloader with animation
 
