@@ -35,4 +35,4 @@ Add login & user accounts
 
 Save favorite movies
 
-Show trailers & ratings
+Show trailers & ratings.
